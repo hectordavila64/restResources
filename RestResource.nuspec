@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RestResources</id>
+    <version>1.0.3</version>
+    <title>RestResources</title>
+    <authors>Hector Davila Diaz</authors>
+    <owners>Hector Davila Diaz</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Resources for data consumption via rest. This resource follows the specifications of http://scytl.github.io/restguide/</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>REST</tags>
+	<dependencies>
+          <dependency id="Newtonsoft.Json" version="9.0" />
+        </dependencies>
+  </metadata>
+  <files>
+         <file src="bin\Debug\RestResource.dll" target="lib\netstandard1.4\RestResource.dll" />        
+     </files>
+</package>
