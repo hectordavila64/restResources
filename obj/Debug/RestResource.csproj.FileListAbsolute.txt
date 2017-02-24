@@ -1,7 +1,0 @@
-E:\proyectos\ACTUALES\App1\RestResource\bin\Debug\RestResource.dll
-E:\proyectos\ACTUALES\App1\RestResource\bin\Debug\RestResource.pdb
-E:\proyectos\ACTUALES\App1\RestResource\bin\Debug\Newtonsoft.Json.dll
-E:\proyectos\ACTUALES\App1\RestResource\bin\Debug\Newtonsoft.Json.xml
-E:\proyectos\ACTUALES\App1\RestResource\obj\Debug\RestResource.dll
-E:\proyectos\ACTUALES\App1\RestResource\obj\Debug\RestResource.pdb
-E:\proyectos\ACTUALES\App1\RestResource\obj\Debug\RestResource.csprojResolveAssemblyReference.cache
